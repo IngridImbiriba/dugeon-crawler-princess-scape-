@@ -8,8 +8,7 @@ em apuros em uma verdadeira heroína.
 
 ====OBJETIVO====
 
-Além de proporcionar diversão e entretenimento ao jogador, o jogo tem como objetivo incentivar a coragem, a determinação e a inteligência, 
-mostrando que qualquer desafio pode ser superado com perseverança e bravura.
+Ser feita com sucesso a fuga da princesa da másmora,além disso, o jogo proporcionar diversão e entretenimento ao jogador, o jogo tem como objetivo incentivar a coragem, a determinação e a inteligência, mostrando que qualquer desafio pode ser superado com perseverança e bravura.
 
  ====COMO JOGAR?====
  
