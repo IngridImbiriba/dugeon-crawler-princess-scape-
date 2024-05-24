@@ -16,3 +16,6 @@ mostrando que qualquer desafio pode ser superado com perseverança e bravura.
 Princess Escape é um jogo dungeon crawler onde você controla a princesa em sua fuga pela masmorra. Utilize os controles para mover a princesa 
 pelos corredores escuros, resolver puzzles, e lutar contra inimigos. Colete itens especiais para ajudá-la em sua jornada, encontre chaves para abrir
 portas trancadas e use sua inteligência para superar obstáculos. Enfrente cada desafio com coragem e habilidade, guiando a princesa em sua busca pela liberdade e redenção.
+
+====CRIADORES===
+Ingrid Imbiriba, Heitor Parente & Evellyn Ribeiro
