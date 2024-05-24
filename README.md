@@ -18,4 +18,5 @@ pelos corredores escuros, resolver puzzles, e lutar contra inimigos. Colete iten
 portas trancadas e use sua inteligência para superar obstáculos. Enfrente cada desafio com coragem e habilidade, guiando a princesa em sua busca pela liberdade e redenção.
 
 ====CRIADORES===
+
 Ingrid Imbiriba, Heitor Parente & Evellyn Ribeiro
